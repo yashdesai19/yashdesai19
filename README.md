@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,50:2563eb,100:7c3aed&text=Yash%20Desai&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Python%20Backend%20Developer%20|%20FastAPI%20Developer&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,50:2563eb,100:7c3aed&text=Yash%20Desai&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Python%20Backend%20Engineer%20|%20FastAPI%20Developer&descAlignY=65"/>
 
 # 👋 Hi, I'm Yash Desai
 
@@ -127,7 +127,8 @@ class YashDesai:
 
 # 🚀 Featured Projects
 
-## 🤖 Hireon — AI Recruitment Platform
+## 🤖 Hireon — AI Recruitment Platform [🌐 Live Demo](https://hirreon.com)
+
 
 AI-powered recruitment platform built using **Python, FastAPI, PostgreSQL & Supabase** to streamline the complete hiring process.
 
@@ -148,7 +149,9 @@ AI-powered recruitment platform built using **Python, FastAPI, PostgreSQL & Supa
 
 ---
 
-## 🏏 Live Cricket Platform
+## 🏏 Live Cricket Platform [🌐 Live Demo](https://gamebling-seven.vercel.app/)
+
+
 
 Backend application delivering real-time cricket data with secure authentication and payment integration.
 
